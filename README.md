@@ -1,1 +1,1 @@
-Hi. I'm [Aman](https://amansanger.com), a senior at MIT studying Math & CS. I write software and research ML.
+Hi. I'm [Aman](https://amansanger.com), I just graduated from MIT after studying CS and math. I write software and am obsessed with large-scale neural models. 
